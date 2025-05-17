@@ -21,5 +21,6 @@ Royal Store wants to create an annual sales report for 2022 , so that they can u
    
 ##Final Conclusion To improve Sales
 Target women of age group 30-49 in the states of Maharashtra ,Karnataka and Uttar Pradesh
+
 #excel, #excelproject, #dataanalysis, #excelformulas, and #excelcharts
 
